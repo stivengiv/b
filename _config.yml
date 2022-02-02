@@ -1,5 +1,7 @@
+title: sogn mp3 host thign
 theme: jekyll-theme-cayman
-show_downloads: true 
+show_downloads: true
    github:  
      zip_url: https://github.com/stivengiv/p/raw/main/dl.zip
      tar_url: https://github.com/stivengiv/p/raw/main/dl.zip
+show_excerpts: false
